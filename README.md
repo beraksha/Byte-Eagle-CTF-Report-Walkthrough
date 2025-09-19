@@ -5,4 +5,6 @@ This report documents my hands-on experience with the Byte Eagle CTF, an ethical
 
 **Key Skills Covered:** Network scanning, SMB enumeration, privilege escalation, and basic decoding.
 
+---
+
 Authored by [beraksha](https://github.com/beraksha) Open-source for learning purposes! 🚀
